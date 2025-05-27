@@ -1,6 +1,6 @@
-Examples of projects I have worked on as part of executive certification programs from MIT. The datasets were provided by the program.
+These are examples of projects I have worked on as part of No Code AI and ML executive certification program from MIT. The datasets were provided by the program.
 
-Hotel Cancellation Prediction: Evaluates Decision Trees and Random Forests models to predict whether a reservation would be cancelled or not. 
+Project 1: Hotel Cancellation Prediction: Evaluates Decision Trees and Random Forests models to predict whether a reservation would be cancelled or not. 
 
 In the pdf presentation:
 - Recommendations based on data exploration and model building
