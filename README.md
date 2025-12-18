@@ -2,7 +2,7 @@
 
 **Project 1: Hotel Cancellation Prediction**: Evaluates Decision Trees and Random Forests models to predict whether a reservation would be cancelled or not. 
 
-[Presentation contains:](www.github.com/AmitMangotraHub/AI-ML-DataScience/Amit Mangotra_Hotel Cancellations Prediction_Decision Trees and Random Forest.pdf)
+[Presentation contains:](https://github.com/AmitMangotraHub/AI-ML-DataScience/blob/main/Amit%20Mangotra_Hotel%20Cancellations%20Prediction_Decision%20Trees%20and%20Random%20Forest.pdf)
 - Business Objective
 - Recommendations based on data exploration and model building
 - Exploratory Data Analysis
