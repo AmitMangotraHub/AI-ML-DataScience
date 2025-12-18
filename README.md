@@ -12,7 +12,7 @@ The pdf presentation attached above contains:
   
 In the attached screenshots, depicting model building steps in Rapid Miner, which is a NO CODE AI tool
 
-**Project 2: Spam/No Spam Prediction**: Predicts whether a text message is spam or not spam (ham) using NLP techniques like Text Vectorization, Sentiment Analysis, Word Cloud Generation followed by Decision Trees/Random Forests. 
+**Project 2: Spam/Not Spam Prediction**: Predicts whether a text message is spam or not spam (ham) using NLP techniques like Text Vectorization, Sentiment Analysis, Word Cloud Generation followed by Decision Trees/Random Forests. 
 
 The pdf presentation attached above contains:
 - Business Objective
