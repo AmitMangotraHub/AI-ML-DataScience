@@ -14,7 +14,7 @@ In the attached screenshots, depicting model building steps in Rapid Miner, whic
 
 **Project 2: Spam/Not Spam Prediction**: Predicts whether a text message is spam or not spam (ham) using NLP techniques like Text Vectorization, Sentiment Analysis, Word Cloud Generation followed by Decision Trees/Random Forests. 
 
-The pdf presentation attached above contains:
+[Presentation contains:](https://github.com/AmitMangotraHub/AI-ML-DataScience/blob/main/Amit%20Mangotra_Spam%20Ham%20Predictions.pdf)
 - Business Objective
 - Recommendations based on data exploration and model building
 - Exploratory Data Analysis
