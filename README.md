@@ -1,4 +1,4 @@
-#These are examples of projects I have worked on as part of **No Code AI and ML: Building Data Science Solutions** executive certification program from **MIT**. The datasets were provided by the program.#
+**Two projects I have worked on as part of <ins>No Code AI and ML: Building Data Science Solutions executive certification program from MIT.</ins> The datasets were provided by the program.**
 
 **Project 1: Hotel Cancellation Prediction**: Evaluates Decision Trees and Random Forests models to predict whether a reservation would be cancelled or not. 
 
